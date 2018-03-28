@@ -1,4 +1,3 @@
-# Geometric-Clustering-based-on-Information-Bottleneck
 clear
 format compact
 close all
